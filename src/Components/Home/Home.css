@@ -1,0 +1,47 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.statement {
+    width: 80%;
+}
+.content-rate {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.content-rate img {
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 17px;
+    padding: 20px;
+
+}
+
+.Walk img {
+    width: 30px;
+    height: 30px;
+}
+
+.Walk {
+    width: 50%;
+}
+.rate {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.rate img {
+    width: 200px;
+}
+.rate h3 {
+    font-size: 1em;
+    width: 70%;
+}
